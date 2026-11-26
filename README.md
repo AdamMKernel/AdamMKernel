@@ -24,11 +24,14 @@
 
 ### 📌 Projets
 
-- [**-python-ddos-tool**](https://github.com/AdamZoda/-python-ddos-tool)
-- [**ATC**](https://github.com/AdamZoda/ATC)
-- [**ticket**](https://github.com/AdamZoda/ticket)
-- [**voiture**](https://github.com/AdamZoda/voiture)
-- [**atc1**](https://github.com/AdamZoda/atc1)
+| Projet | Langage | Lien |
+| --- | --- | --- |
+| **-python-ddos-tool** | Python | [Ouvrir](https://github.com/AdamZoda/-python-ddos-tool) |
+| **ATC** | — | [Ouvrir](https://github.com/AdamZoda/ATC) |
+| **ticket** | PHP | [Ouvrir](https://github.com/AdamZoda/ticket) |
+| **voiture** | TypeScript | [Ouvrir](https://github.com/AdamZoda/voiture) |
+| **HI** | Python | [Ouvrir](https://github.com/AdamZoda/HI) |
+| **atc1** | TypeScript | [Ouvrir](https://github.com/AdamZoda/atc1) |
 
 ---
 
