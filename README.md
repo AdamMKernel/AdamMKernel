@@ -4,7 +4,7 @@
 
 **Développeur · Python · PHP · TypeScript**
 
-[![GitHub profile card](https://githubcard.com/AdamZoda.svg)](https://githubcard.com/AdamZoda/card?utm_source=github&utm_medium=readme)
+[![GitHub profile card](https://githubcard.com/AdamMKernel.svg)](https://githubcard.com/AdamMKernel/card?utm_source=github&utm_medium=readme)
 
 </div>
 
